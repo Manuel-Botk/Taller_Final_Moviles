@@ -2,7 +2,7 @@
 
 Aplicación Android desarrollada con Flutter que consulta una API pública de COVID-19, muestra los datos de un país elegido y envía una notificación local con el resumen.
 
-**Autor:** Juan Manuel Bejarano Mendez
+**Autor:** Juan Manuel Bejarano Mendez - 30000130961
 **Curso:** Multimedia para moviles 
 **Fecha:** 19 de noviembre de 2026
 
