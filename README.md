@@ -77,7 +77,3 @@ El archivo queda en `build/app/outputs/flutter-apk/app-release.apk`.
 - Las notificaciones solo funcionan en Android (no en el navegador).
 - En Android 13 o superior, la app pide el permiso de notificaciones al abrirse.
 
-## Capturas de pantalla
-
-<!-- Agrega aquí tus capturas, por ejemplo: -->
-<!-- ![Pantalla principal](capturas/principal.png) -->
