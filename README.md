@@ -10,7 +10,7 @@ Aplicación Android desarrollada con Flutter que consulta una API pública de CO
 
 Puedes descargar el APK desde la sección [Releases](../../releases) de este repositorio.
 
-> Reemplaza el enlace anterior por la URL de tu release cuando la publiques.
+> https://github.com/Manuel-Botk/Taller_Final_Moviles/releases
 
 ## Funcionalidades
 
