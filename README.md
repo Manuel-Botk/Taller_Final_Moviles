@@ -50,7 +50,7 @@ lib/
 
 1. Clona el repositorio:
    ```
-   git clone (https://github.com/Manuel-Botk/Taller_Final_Moviles.git)
+   git clone https://github.com/Manuel-Botk/Taller_Final_Moviles.git
    cd taller_moviles_covid
    ```
 2. Instala las dependencias:
